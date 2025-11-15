@@ -77,7 +77,16 @@ The project includes:
 • Age distribution histograms
 • Organization ranking visualizations
 🎓 Insights & Conclusions
-[## 🎓 Insights & Conclusions ### Key Findings **Gender Disparity**: Male laureates vastly outnumber female winners. This stark imbalance reflects historical barriers that women faced in accessing scientific education and research opportunities. **Physics Leadership**: Physics accounts for the highest number of groundbreaking achievements, demonstrating its foundational role in scientific progress and technological innovation. **Institutional Excellence**: The University of California leads all organizations, proving that world-class research institutions create the environment where transformative work happens. ### Conclusion This analysis reveals three critical insights: excellence requires institutional support, groundbreaking science transcends individual categories but physics remains central, and diversity in science remains an unfinished mission. **Personal Reflection**: As an aspiring data scientist with Nobel Prize ambitions, these findings reinforce what success requires: joining institutions that foster excellence, pursuing fundamental questions that push boundaries, and contributing to a more inclusive scientific community. The path to Nobel-level impact isn't just about individual brilliance—it's about being in environments that amplify talent, asking questions that matter, and opening doors for future generations. The data shows the pattern. Now it's time to become part of it.]
+
+[ ## 🎓 Insights & Conclusions
+
+### Key Findings 
+**Gender Disparity**: Male laureates vastly outnumber female winners. This stark imbalance reflects historical barriers that women faced in accessing scientific education and research opportunities. 
+**Physics Leadership**: Physics accounts for the highest number of groundbreaking achievements, demonstrating its foundational role in scientific progress and technological innovation.
+**Institutional Excellence**: The University of California leads all organizations, proving that world-class research institutions create the environment where transformative work happens. 
+
+### Conclusion 
+This analysis reveals three critical insights: excellence requires institutional support, groundbreaking science transcends individual categories but physics remains central, and diversity in science remains an unfinished mission. **Personal Reflection**: As an aspiring data scientist with Nobel Prize ambitions, these findings reinforce what success requires: joining institutions that foster excellence, pursuing fundamental questions that push boundaries, and contributing to a more inclusive scientific community. The path to Nobel-level impact isn't just about individual brilliance—it's about being in environments that amplify talent, asking questions that matter, and opening doors for future generations. The data shows the pattern. Now it's time to become part of it.🤞🏿]
 👤 Author
 [Oluwatoyin Oluwaseun Egunjobi]
 • Aspiring data scientist with Nobel Prize-level ambitions
