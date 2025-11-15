@@ -91,7 +91,7 @@ This analysis reveals three critical insights: excellence requires institutional
 
 👤 Author
 
-[Oluwatoyin Oluwaseun Egunjobi]
+**[Oluwatoyin Oluwaseun Egunjobi]**
 • Aspiring data scientist with Nobel Prize-level ambitions
 • Passionate about uncovering insights from historical data
 
