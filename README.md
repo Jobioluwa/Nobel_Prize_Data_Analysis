@@ -90,14 +90,17 @@ This analysis reveals three critical insights: excellence requires institutional
 **Personal Reflection**: As an aspiring data scientist with Nobel Prize ambitions, these findings reinforce what success requires: joining institutions that foster excellence, pursuing fundamental questions that push boundaries, and contributing to a more inclusive scientific community. The path to Nobel-level impact isn't just about individual brilliance—it's about being in environments that amplify talent, asking questions that matter, and opening doors for future generations. The data shows the pattern. Now it's time to become part of it.🤞🏿
 
 👤 Author
+
 [Oluwatoyin Oluwaseun Egunjobi]
 • Aspiring data scientist with Nobel Prize-level ambitions
 • Passionate about uncovering insights from historical data
 
 📝 License
+
 This project is open source and available for educational purposes.
 
 🙏 Acknowledgments
+
 • Nobel Prize Committee for making the data publicly available
 • The scientific community for their groundbreaking contributions
 
